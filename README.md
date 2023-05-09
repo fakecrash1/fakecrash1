@@ -2,6 +2,8 @@
 
 ## My name is Attila Farkas
 
+# Welcome to my Github profile page,
+Currently i am learning the basics of coding, i am studying; HTML, CSS, Javasctipt, Python and more.
 
 <!--
 **fakecrash1/fakecrash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
