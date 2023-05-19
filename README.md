@@ -21,9 +21,9 @@ ________________________
 ♦️  git push
 ________________________
 
-```
-</details>
-<details>
+```</details>
+
+<details2>
 <summary> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵ </summary>
 ```
 _________________________________________________
@@ -126,7 +126,7 @@ _________________________________________________
 🔹  Comma: ","
 _________________________________________________
 ```
-</details>
+</details2>
 
 
 
