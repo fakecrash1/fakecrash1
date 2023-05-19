@@ -25,7 +25,7 @@
 
 </details>
 
-<details2>
+<details>
 
 <summary> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵ </summary>
 
