@@ -8,8 +8,8 @@
 - 📚 I’m currently learning Full stack developer at Codecool Hungary
 
 
-
-> ➡ Some Basic Git commands are: ⤵
+<details>
+<summary> ➡ Some Basic Git commands are: ⤵ </summary>
 ```
 ________________________
 ♦️  git status
@@ -18,6 +18,7 @@ ________________________
 ♦️  git push
 ________________________
 ```
+</details>
 <details>
 <summary> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵ </summary>
 ```
@@ -120,7 +121,8 @@ _________________________________________________
 🔸  ,
 🔹  Comma: ","
 _________________________________________________
-```</details>
+```
+</details>
 
 
 
