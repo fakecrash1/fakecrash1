@@ -18,7 +18,7 @@ git push
 ```
 
 > Some basic keyboard combination cheats (hungarian keyboard - Full layout):
-```
+
 #   Brackets    "()", "[]", "{}", "<>";
 
 
@@ -117,7 +117,7 @@ git push
 
 ### ,
 ## Comma: ","
-```
+
 <!--
 **fakecrash1/fakecrash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
