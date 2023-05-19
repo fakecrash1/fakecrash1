@@ -10,123 +10,126 @@
 
 <details>
 <summary> ➡ Some Basic Git commands are: ⤵ </summary>
-```
 
-♦️  git status
-
-♦️  git add
-
-♦️  git commit
-
-♦️  git push
 
 ```
+    ♦️  git status
+
+    ♦️  git add
+
+    ♦️  git commit
+
+    ♦️  git push
+```
+
+
 </details>
 
 <details2>
 
 <summary> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵ </summary>
 ```
-_________________________________________________
+    _________________________________________________
 
-▶   Brackets    "()", "[]", "{}", "<>";
-
-
-🔸  Shift+8, Shift+9
-🔹  Round brackets: ()
-
-🔸  Altgr+F, Altgr+G
-🔹  Square brackets: []
-
-🔸  Altgr+B, Altgr+N
-🔹  Curly brackets: {}
-
-🔸  Altgr+Í, Altgr+Y
-🔹  Angle brackets or chevrons: <>
-_________________________________________________
-
-▶   Quoatation marks    (' '), (" "), (` `);
+    ▶   Brackets    "()", "[]", "{}", "<>";
 
 
-🔸  Shift+1
-🔹  Single quote: ' '
+    🔸  Shift+8, Shift+9
+    🔹  Round brackets: ()
 
-🔸  Shift+2
-🔹  Double quote: " "
+    🔸  Altgr+F, Altgr+G
+    🔹  Square brackets: []
 
-🔸  Altgr+7
-🔹  Backtick: ` `
-_________________________________________________
+    🔸  Altgr+B, Altgr+N
+    🔹  Curly brackets: {}
 
-▶   Slashes and bar "/", "\", "|";
+    🔸  Altgr+Í, Altgr+Y
+    🔹  Angle brackets or chevrons: <>
+    _________________________________________________
 
-
-🔸  Shift+6
-🔹  Slash: /
-
-🔸  Altgr+Q
-🔹  Backslash: \
-
-🔸  Altgr+W
-🔹  Bar: |
-_________________________________________________
-
-▶   All the other neccessary characters:    "~", "!", "?", "@", "#", "%", "$", "&", 
-                                            "*", "-", "_", "+", "=", ":", ";", ".", ",";
+    ▶   Quoatation marks    (' '), (" "), (` `);
 
 
-🔸  Altgr+1
-🔹  Tidle: "~"
+    🔸  Shift+1
+    🔹  Single quote: ' '
 
-🔸  Shift+4
-🔹  Exclamation mark: "!"
+    🔸  Shift+2
+    🔹  Double quote: " "
 
-🔸  Shift+,
-🔹  Question mark: "?"
+    🔸  Altgr+7
+    🔹  Backtick: ` `
+    _________________________________________________
 
-🔸  Altgr+V
-🔹  At: "@"
+    ▶   Slashes and bar "/", "\", "|";
 
-🔸  Altgr+X
-🔹  Hash: "#"
 
-🔸  Shift+5
-🔹  Percent: "%"
+    🔸  Shift+6
+    🔹  Slash: /
 
-🔸  Altgr+É
-🔹  Dollar Sign: "$"
+    🔸  Altgr+Q
+    🔹  Backslash: \
 
-🔸  Altgr+C
-🔹  Ampersand: "&"
+    🔸  Altgr+W
+    🔹  Bar: |
+    _________________________________________________
 
-🔸  Altgr+(-)
-🔹  Asterisk: "*"
+    ▶   All the other neccessary characters:    "~", "!", "?", "@", "#", "%", "$", "&", 
+                                                "*", "-", "_", "+", "=", ":", ";", ".", ",";
 
-🔸  -
-🔹  Dash: "-"
 
-🔸  Shift+(-)
-🔹  Underscore: "_"
+    🔸  Altgr+1
+    🔹  Tidle: "~"
 
-🔸  Shift+3
-🔹  Plus: "+"
+    🔸  Shift+4
+    🔹  Exclamation mark: "!"
 
-🔸  Shift+7
-🔹  Equal: "="
+    🔸  Shift+,
+    🔹  Question mark: "?"
 
-🔸  Shift+.
-🔹  Colon: ":"
+    🔸  Altgr+V
+    🔹  At: "@"
 
-🔸  Shift+,
-🔹  Semicolon: ";"
+    🔸  Altgr+X
+    🔹  Hash: "#"
 
-🔸  .
-🔹  Dot: "."
+    🔸  Shift+5
+    🔹  Percent: "%"
 
-🔸  ,
-🔹  Comma: ","
-_________________________________________________
+    🔸  Altgr+É
+    🔹  Dollar Sign: "$"
+
+    🔸  Altgr+C
+    🔹  Ampersand: "&"
+
+    🔸  Altgr+(-)
+    🔹  Asterisk: "*"
+
+    🔸  -
+    🔹  Dash: "-"
+
+    🔸  Shift+(-)
+    🔹  Underscore: "_"
+
+    🔸  Shift+3
+    🔹  Plus: "+"
+
+    🔸  Shift+7
+    🔹  Equal: "="
+
+    🔸  Shift+.
+    🔹  Colon: ":"
+
+    🔸  Shift+,
+    🔹  Semicolon: ";"
+
+    🔸  .
+    🔹  Dot: "."
+
+    🔸  ,
+    🔹  Comma: ","
+    _________________________________________________
 ```
+
 </details>
 
 
