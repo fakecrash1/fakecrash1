@@ -7,10 +7,9 @@
 
 - 📚 I’m currently learning Full stack developer at Codecool Hungary
 
-
+<!-- Collapsed section / Összecsukható szakasz -->
 <details>
 <summary> ➡ Some Basic Git commands are: ⤵ </summary>
-
 
 ```
     ♦️  git status
@@ -22,11 +21,9 @@
     ♦️  git push
 ```
 
-
 </details>
-
+<!-- Collaped section / Összecsukható szakasz -->
 <details>
-
 <summary> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵ </summary>
 
 ```
