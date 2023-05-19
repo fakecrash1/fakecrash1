@@ -9,114 +9,116 @@
 
 
 
-> Some Basic Git commands are:
+> ➡ Some Basic Git commands are: ⤵
 ```
-git status
-git add
-git commit
-git push
+________________________
+♦️  git status
+♦️  git add
+♦️  git commit
+♦️  git push
+________________________
 ```
 
-> Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout):
+> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵
 ```
-#   Brackets    "()", "[]", "{}", "<>";
+_________________________________________________
+
+▶   Brackets    "()", "[]", "{}", "<>";
 
 
-### Shift+8, Shift+9
-##  Round brackets: ()
+🔸  Shift+8, Shift+9
+🔹  Round brackets: ()
 
-### Altgr+F, Altgr+G
-## Square brackets: []
+🔸  Altgr+F, Altgr+G
+🔹  Square brackets: []
 
-### Altgr+B, Altgr+N
-## Curly brackets: {}
+🔸  Altgr+B, Altgr+N
+🔹  Curly brackets: {}
 
-### Altgr+Í, Altgr+Y
-## Angle brackets or chevrons: <>
+🔸  Altgr+Í, Altgr+Y
+🔹  Angle brackets or chevrons: <>
+_________________________________________________
 
-
-
-#   Quoatation marks    (' '), (" "), (` `);
-
-
-### Shift+1
-##  Single quote: ' '
-
-### Shift+2
-## Double quote: " "
-
-### Altgr+7
-## Backtick: ` `
+▶   Quoatation marks    (' '), (" "), (` `);
 
 
+🔸  Shift+1
+🔹  Single quote: ' '
 
-#   Slashes and bar "/", "\", "|";
+🔸  Shift+2
+🔹  Double quote: " "
 
+🔸  Altgr+7
+🔹  Backtick: ` `
+_________________________________________________
 
-### Shift+6
-##  Slash: /
-
-### Altgr+Q
-## Backslash: \
-
-### Altgr+W
-##  Bar: |
-
+▶   Slashes and bar "/", "\", "|";
 
 
-#   All the other neccessary characters "~", "!", "?", "@", "#", "%", "$", "&", "*", "-", "_", "+", "=", ":", ";", ".", ",";
+🔸  Shift+6
+🔹  Slash: /
+
+🔸  Altgr+Q
+🔹  Backslash: \
+
+🔸  Altgr+W
+🔹  Bar: |
+_________________________________________________
+
+▶   All the other neccessary characters "~", "!", "?", "@", "#", "%", "$", "&", "*", "-", "_", "+", "=", ":", ";", ".", ",";
 
 
-### Altgr+1
-## Tidle: "~"
+🔸  Altgr+1
+🔹  Tidle: "~"
 
-### Shift+4
-## Exclamation mark: "!"
+🔸  Shift+4
+🔹  Exclamation mark: "!"
 
-### Shift+,
-##  Question mark: "?"
+🔸  Shift+,
+🔹  Question mark: "?"
 
-### Altgr+V
-##  At: "@"
+🔸  Altgr+V
+🔹  At: "@"
 
-### Altgr+X
-##  Hash: "#"
+🔸  Altgr+X
+🔹  Hash: "#"
 
-### Shift+5
-##  Percent: "%"
+🔸  Shift+5
+🔹  Percent: "%"
 
-### Altgr+É
-## Dollar Sign: "$"
+🔸  Altgr+É
+🔹  Dollar Sign: "$"
 
-### Altgr+C
-## Ampersand: "&"
+🔸  Altgr+C
+🔹  Ampersand: "&"
 
-### Altgr+(-)
-##  Asterisk: "*"
+🔸  Altgr+(-)
+🔹  Asterisk: "*"
 
-### -
-##  Dash: "-"
+🔸  -
+🔹  Dash: "-"
 
-### Shift+(-)
-## Underscore: "_"
+🔸  Shift+(-)
+🔹  Underscore: "_"
 
-### Shift+3
-##  Plus: "+"
+🔸  Shift+3
+🔹  Plus: "+"
 
-### Shift+7
-##  Equal: "="
+🔸  Shift+7
+🔹  Equal: "="
 
-### Shift+.
-##  Colon: ":"
+🔸  Shift+.
+🔹  Colon: ":"
 
-### Shift+,
-##  Semicolon: ";"
+🔸  Shift+,
+🔹  Semicolon: ";"
 
-### .
-##  Dot: "."
+🔸  .
+🔹  Dot: "."
 
-### ,
-## Comma: ","
+🔸  ,
+🔹  Comma: ","
+_________________________________________________⤴
 ```
 <!--
 **fakecrash1/fakecrash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
