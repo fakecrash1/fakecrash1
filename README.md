@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 # Welcome to my Github profile page,
-Currently i am learning the basics of coding, i am studying; HTML, CSS, Javasctipt, Python and more.
+> Currently learning the basics of coding, currently studying; HTML, CSS, Javasctipt, Python and more.
 
 ## My name is Attila Farkas
 
-- 📚 I’m currently learning Full stack developer at 
+- 📚 I’m currently learning Full stack developer at Codecool Hungary
 
 
 
-> Some Basic Git cmomands are:
+> Some Basic Git commands are:
 ```
 git status
 git add
