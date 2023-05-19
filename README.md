@@ -11,7 +11,7 @@
 <details>
 <summary> ➡ Some Basic Git commands are: ⤵ </summary>
 ```
-________________________
+
 ♦️  git status
 
 ♦️  git add
@@ -19,11 +19,12 @@ ________________________
 ♦️  git commit
 
 ♦️  git push
-________________________
 
-```</details>
+```
+</details>
 
 <details2>
+
 <summary> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵ </summary>
 ```
 _________________________________________________
@@ -126,7 +127,7 @@ _________________________________________________
 🔹  Comma: ","
 _________________________________________________
 ```
-</details2>
+</details>
 
 
 
