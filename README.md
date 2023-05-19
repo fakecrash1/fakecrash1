@@ -28,11 +28,10 @@
 <details2>
 
 <summary> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵ </summary>
+
 ```
-    _________________________________________________
 
     ▶   Brackets    "()", "[]", "{}", "<>";
-
 
     🔸  Shift+8, Shift+9
     🔹  Round brackets: ()
@@ -45,10 +44,9 @@
 
     🔸  Altgr+Í, Altgr+Y
     🔹  Angle brackets or chevrons: <>
-    _________________________________________________
+
 
     ▶   Quoatation marks    (' '), (" "), (` `);
-
 
     🔸  Shift+1
     🔹  Single quote: ' '
@@ -58,10 +56,9 @@
 
     🔸  Altgr+7
     🔹  Backtick: ` `
-    _________________________________________________
+
 
     ▶   Slashes and bar "/", "\", "|";
-
 
     🔸  Shift+6
     🔹  Slash: /
@@ -71,12 +68,10 @@
 
     🔸  Altgr+W
     🔹  Bar: |
-    _________________________________________________
+
 
     ▶   All the other neccessary characters:    "~", "!", "?", "@", "#", "%", "$", "&", 
                                                 "*", "-", "_", "+", "=", ":", ";", ".", ",";
-
-
     🔸  Altgr+1
     🔹  Tidle: "~"
 
@@ -127,7 +122,7 @@
 
     🔸  ,
     🔹  Comma: ","
-    _________________________________________________
+
 ```
 
 </details>
