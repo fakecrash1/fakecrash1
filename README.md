@@ -17,7 +17,7 @@ git commit
 git push
 ```
 
-> Some basic keyboard combination cheats (hungarian keyboard - Full layout):
+> Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout):
 ```
 #   Brackets    "()", "[]", "{}", "<>";
 
