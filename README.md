@@ -17,6 +17,107 @@ git commit
 git push
 ```
 
+> Some basic keyboard combination cheats (hungarian keyboard - Full layout):
+```
+#   Brackets    "()", "[]", "{}", "<>";
+
+
+### Shift+8, Shift+9
+##  Round brackets: ()
+
+### Altgr+F, Altgr+G
+## Square brackets: []
+
+### Altgr+B, Altgr+N
+## Curly brackets: {}
+
+### Altgr+Í, Altgr+Y
+## Angle brackets or chevrons: <>
+
+
+
+#   Quoatation marks    (' '), (" "), (` `);
+
+
+### Shift+1
+##  Single quote: ' '
+
+### Shift+2
+## Double quote: " "
+
+### Altgr+7
+## Backtick: ` `
+
+
+
+#   Slashes and bar "/", "\", "|";
+
+
+### Shift+6
+##  Slash: /
+
+### Altgr+Q
+## Backslash: \
+
+### Altgr+W
+##  Bar: |
+
+
+
+#   All the other neccessary characters "~", "!", "?", "@", "#", "%", "$", "&", "*", "-", "_", "+", "=", ":", ";", ".", ",";
+
+
+### Altgr+1
+## Tidle: "~"
+
+### Shift+4
+## Exclamation mark: "!"
+
+### Shift+,
+##  Question mark: "?"
+
+### Altgr+V
+##  At: "@"
+
+### Altgr+X
+##  Hash: "#"
+
+### Shift+5
+##  Percent: "%"
+
+### Altgr+É
+## Dollar Sign: "$"
+
+### Altgr+C
+## Ampersand: "&"
+
+### Altgr+(-)
+##  Asterisk: "*"
+
+### -
+##  Dash: "-"
+
+### Shift+(-)
+## Underscore: "_"
+
+### Shift+3
+##  Plus: "+"
+
+### Shift+7
+##  Equal: "="
+
+### Shift+.
+##  Colon: ":"
+
+### Shift+,
+##  Semicolon: ";"
+
+### .
+##  Dot: "."
+
+### ,
+## Comma: ","
+```
 <!--
 **fakecrash1/fakecrash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
