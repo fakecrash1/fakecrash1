@@ -18,8 +18,8 @@ ________________________
 ♦️  git push
 ________________________
 ```
-
-> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵
+<details>
+<summary> ➡ Some basic keyboard combination cheats (hungarian keyboard -[Windows] Full layout): ⤵ </summary>
 ```
 _________________________________________________
 
@@ -120,7 +120,11 @@ _________________________________________________
 🔸  ,
 🔹  Comma: ","
 _________________________________________________
-```
+```</details>
+
+
+
+
 <!--
 **fakecrash1/fakecrash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
