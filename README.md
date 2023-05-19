@@ -9,7 +9,7 @@ Currently i am learning the basics of coding, i am studying; HTML, CSS, Javascti
 
 
 
-> Some Basic Git cmomands are:
+> Some Basic Git commands are:
 ```
 git status
 git add
